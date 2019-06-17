@@ -175,6 +175,7 @@ body {
 }
 .flex-container :hover .text{
     opacity: 1;
+    font-size: 15pt;
 }
 
 
@@ -191,6 +192,7 @@ body {
 
 .flex-container :hover .text_container{
     opacity: 1;
+
 }
 
 .flex-container  a {
